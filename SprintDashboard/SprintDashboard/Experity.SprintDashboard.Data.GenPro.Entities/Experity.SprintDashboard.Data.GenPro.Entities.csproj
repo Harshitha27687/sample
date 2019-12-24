@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Experity.SprintDashboard.Data.GenPro.Entities</AssemblyName>
+    <RootNamespace>Experity.SprintDashboard.Data.GenPro.Entities</RootNamespace>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SD.LLBLGen.Pro.ORMSupportClasses" Version="5.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Experity.SprintDashboard.Data.PersistenceModel.Interfaces\Experity.SprintDashboard.Data.PersistenceModel.Interfaces.csproj" />
+  </ItemGroup>
+</Project>

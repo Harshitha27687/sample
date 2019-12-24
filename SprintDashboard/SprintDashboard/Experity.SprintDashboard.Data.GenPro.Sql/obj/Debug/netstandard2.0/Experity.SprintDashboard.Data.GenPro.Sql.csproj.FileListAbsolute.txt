@@ -1,0 +1,10 @@
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.dll.config
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.deps.json
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.dll
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.pdb
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.csprojAssemblyReference.cache
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.csproj.CoreCompileInputs.cache
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.AssemblyInfoInputs.cache
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.AssemblyInfo.cs
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.dll
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data.GenPro.Sql\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.pdb

@@ -1,0 +1,59 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:63181/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "SwaggerEnable": "true",
+        "LoggingEndpointEnabled": "true",
+        //"Secret": "7C5EA8A2-EE26-4A81-9733-E36CA09221A3",
+        "DataSource": "d-dba.pvops.com",
+        "HostName": "localhost",
+        "DbUserId": "DevDBUser",
+        "DbPassword": "develop",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AuthApplicationName": "PV.AppAuth.API",
+        "AppAuthApiBaseAddress": "https://devservices.practicevelocity.com/applicationauthapi/",
+        "EncryptionPublicKeyFilePath": "",
+        "EncryptionPublicKeyFileName": "EncryptionPublicKey",
+        "EncryptionPrivateKeyFilePath": "",
+        "EncryptionPrivateKeyFileName": "RSAPrivateKey.txt",
+        "PathBase": "",
+        "SigningPublicKeyFileName": "PublicSigningKey.pem",
+        "SigningPublicKeyFilePath": ""
+      }
+    },
+    "Experity.SprintDashboard.API": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "SwaggerEnable": "true",
+        "LoggingEndpointEnabled": "true",
+        //"Secret": "7C5EA8A2-EE26-4A81-9733-E36CA09221A3",
+        "DataSource": "d-dba.pvops.com",
+        "HostName": "localhost",
+        "DbUserId": "DevDBUser",
+        "DbPassword": "develop",
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "AuthApplicationName": "PV.AppAuth.API",
+        "AppAuthApiBaseAddress": "https://devservices.practicevelocity.com/applicationauthapi/",
+        "EncryptionPublicKeyFilePath": "",
+        "EncryptionPublicKeyFileName": "EncryptionPublicKey",
+        "EncryptionPrivateKeyFilePath": "",
+        "EncryptionPrivateKeyFileName": "RSAPrivateKey.txt",
+        "PathBase": "",
+        "SigningPublicKeyFileName": "PublicSigningKey.pem",
+        "SigningPublicKeyFilePath": ""
+      },
+      "applicationUrl": "http://localhost:63182/"
+    }
+  }
+}

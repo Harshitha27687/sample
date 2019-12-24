@@ -1,0 +1,13 @@
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.deps.json
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.dll
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.pdb
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.dll
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.pdb
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\bin\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.Sql.dll.config
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.csprojAssemblyReference.cache
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.csproj.CoreCompileInputs.cache
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.AssemblyInfoInputs.cache
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.AssemblyInfo.cs
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.csproj.CopyComplete
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.dll
+D:\Github\PracticeVelocity\sprint-dashboard--api\SprintDashboard\SprintDashboard\Experity.SprintDashboard.Data\obj\Debug\netstandard2.0\Experity.SprintDashboard.Data.GenPro.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Experity.SprintDashboard.DataAccess.GenPro</AssemblyName>
+    <RootNamespace>Experity.SprintDashboard.DataAccess.GenPro</RootNamespace>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Experity.SprintDashboard.Data.GenPro.Entities\Experity.SprintDashboard.Data.GenPro.Entities.csproj" />
+    <ProjectReference Include="..\Experity.SprintDashboard.Data.GenPro.Sql\Experity.SprintDashboard.Data.GenPro.Sql.csproj" />
+    <ProjectReference Include="..\Experity.SprintDashboard.DataAccess.Interfaces\Experity.SprintDashboard.DataAccess.Interfaces.csproj" />
+    <ProjectReference Include="..\Experity.SprintDashboard.Data\Experity.SprintDashboard.Data.csproj" />
+    <ProjectReference Include="..\Experity.SprintDashboard.Models\Experity.SprintDashboard.Models.csproj" />
+  </ItemGroup>
+
+</Project>

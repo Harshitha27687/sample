@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Experity.SprintDashboard.Data.GenPro</AssemblyName>
+    <RootNamespace>Experity.SprintDashboard.Data.GenPro</RootNamespace>
+    <LangVersion>7.3</LangVersion>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Experity.SprintDashboard.Data.GenPro.Sql\Experity.SprintDashboard.Data.GenPro.Sql.csproj" />
+  </ItemGroup>
+
+</Project>

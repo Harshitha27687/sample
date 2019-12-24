@@ -1,0 +1,8 @@
+﻿.swagger-ui .topbar {
+    background-color: gray;
+    border-bottom: 3px solid #11488f;
+}
+
+    .swagger-ui .topbar .download-url-wrapper {
+        visibility: collapse;
+    }
